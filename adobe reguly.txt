@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe
+C:\Program Files\Common Files\Adobe\Adobe Desktop Common\NGL\adobe_licensing_wf.exe
+C:\Program Files\Common Files\Adobe\Adobe Desktop Common\NGL\adobe_licensing_wf_helper.exe
